@@ -138,7 +138,7 @@ spring.datasource.password=test
 
 别忘了加 `@Mapper` 注解
 
-##  [OracleMybaitsplusApplicationTests.java](src\test\java\com\example\oraclemybaitsplus\OracleMybaitsplusApplicationTests.java) 
+##   [Tests.java](src\test\java\com\example\oraclemybaitsplus\Tests.java) 
 
 测试类，直接运行，不出意外，可插入数据
 

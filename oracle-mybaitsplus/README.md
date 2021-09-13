@@ -111,7 +111,7 @@ mvn install:install-file -Dfile=ojdbc6.jar -DgroupId=com.oracle -DartifactId=ojd
 spring.datasource.driver-class-name=oracle.jdbc.driver.OracleDriver
 ```
 
-docker 安装 oracle11g 时服务名就是 `helowin` ，懒得改了，就这样吧
+docker 安装 oracle11g 时服务名就是 `helowin` ，懒得改了，就这样吧。还有就是地址记得填对
 
 ```properties
 spring.datasource.url=jdbc:oracle:thin:@127.0.0.1:1521:helowin

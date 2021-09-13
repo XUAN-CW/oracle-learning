@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>oracle-mybaitsplus</artifactId>
+    <artifactId>oracle-mybatisplus</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>oracle-mybaitsplus</name>
+    <name>oracle-mybatisplus</name>
     <description>oracle-mybaitsplus</description>
 
 
